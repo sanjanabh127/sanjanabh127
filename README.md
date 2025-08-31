@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on **backend Development**
 
-- 🌱 I’m currently learning **Deep learning and Machine Learning**
-
+- 🌱 Exploring **ML & DL** with curiosity and innovation
+c
 - 💬 Ask me about **my passion**
 
 - 📫 How to reach me **sanjanabh127@gmail.com**
