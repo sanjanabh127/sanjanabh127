@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, Sanju here</h1>
+<h1 align="center">Hello 👋, Sanjana here</h1>
 <h3 align="center">🌌Exploring infinite loops🌀in a finite world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanabh127&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanabh127" /> </p>
