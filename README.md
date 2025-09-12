@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjana Hiremath</h1>
+<h1 align="center">Hi 👋, I'm Sanjana </h1>
 <h3 align="center">🌌Exploring infinite loops🌀in a finite world</h3>
 
 - 🔭 I’m currently working on **backend Development**
