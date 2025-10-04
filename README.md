@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjana </h1>
 <h3 align="center">🌌Exploring infinite loops🌀in a finite world</h3>
 
-- 🔭 I’m currently working on **backend Development**
-
 - 🌱 I’m currently exploring and working on my skills in  **Deep learning and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanjanabh127](https://github.com/sanjanabh127)
