@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanjana </h1>
-<h3 align="center">🌌Exploring infinite loops🌀in a finite world</h3>
+<h1 align="center">Hi ❤️, I'm Sanjana </h1>
+
 
 - 🌱 I’m currently exploring and working on my skills in  **Deep learning and Machine Learning**
 
