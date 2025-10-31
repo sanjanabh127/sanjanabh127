@@ -1,7 +1,7 @@
 <h1 align="center">Hi ❤️, I'm Sanjana </h1>
 
 
-- 🌱 I’m currently exploring and working on my skills in  **Deep learning , Data Science and  Machine Learning**
+- 🌱 I’m currently exploring and working on my skills in  **Deep learning , Data Science , Computer vision and  Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanjanabh127](https://github.com/sanjanabh127)
 
