@@ -99,4 +99,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 </a>
 
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg"
+       alt="streamlit"
+       width="40"
+       height="40"
+       style="filter: invert(34%) sepia(93%) saturate(2876%) hue-rotate(347deg) brightness(99%) contrast(97%);" />
+</a>
+
 </p>
