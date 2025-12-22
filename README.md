@@ -107,4 +107,12 @@
        style="filter: invert(34%) sepia(93%) saturate(2876%) hue-rotate(347deg) brightness(99%) contrast(97%);" />
 </a>
 
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+       alt="java"
+       width="40"
+       height="40"/>
+</a>
+
 </p>
