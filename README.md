@@ -4,7 +4,7 @@
 
 - 👨‍💻 <a href="https://github.com/sanjanabh127">My Projects</a>
 
-- 📫 How to reach me **sanjanabh127@gmail.com**
+- 📫 Reach me at **sanjanabh127@gmail.com**
 
 - ⚡ Fun fact **I think I am Fonny**
 
